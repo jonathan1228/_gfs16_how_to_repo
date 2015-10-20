@@ -56,6 +56,7 @@ Branching is for when you want to work on something that might span over multipl
 
 ### Typical Collaboration Patterns
 
-A typical collaboration pattern is actually to fork, then branch off of master, then push to your fork, then file a pul request.
+A typical collaboration pattern is actually to fork, then branch off of master, then push to your fork, then file a pull request.
 
-The reason for this is that master, as a branch, should always represent code or whatever that "Works" and is uitable for deployment or sharing or whatever "going"
+The reason for this is that master, as a branch, should always represent code or whatever that "Works" and is uitable for deployment or sharing or whatever "going public" is for you.
+
