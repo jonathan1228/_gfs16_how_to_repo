@@ -50,3 +50,6 @@ $ git push origin master
 Finish what you started working on, then push up any additional commits.
 
 File a pull request with the commits in it that you want to share. Make sure you have a good explanation in the pull request of what this is, what it's intended to do, and some nice language, rather than making fun of the original author.
+
+### How to work on two different things at the sae time
+Branching is for when you want to work on something that might span over multiple commits, that's significant enough to warrant some kind of really specific deliniation. 
