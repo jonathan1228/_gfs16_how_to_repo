@@ -68,7 +68,9 @@ $ git config --global alias.<whatever you want it to be> <command>
 
 These are my aliases for the following commands for future reference.
 
+```shell
 $ git config --global alias.ch checkout
 $ git config --global alias.br branch
 $ git config --global alias.com commit
 $ git config --global alias.st status
+```
