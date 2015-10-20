@@ -1,6 +1,6 @@
 # Git CheatSheet
 
-### STart a new project
+### Start a new project
 
 ```shell
 $ mkdir project_name
