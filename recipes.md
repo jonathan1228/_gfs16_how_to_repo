@@ -66,6 +66,8 @@ The reason for this is that master, as a branch, should always represent code or
 In order to simplify git commands for the lazy people and if you don't want to type out the entire command such as checkout or status then the following is the way to do it:
 $ git config --global alias.<whatever you want it to be> <command>
 
+These are my aliases for the following commands for future reference.
+
 $ git config --global alias.ch checkout
 $ git config --global alias.br branch
 $ git config --global alias.com commit
