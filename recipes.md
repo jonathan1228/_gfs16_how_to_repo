@@ -61,3 +61,12 @@ A typical collaboration pattern is actually to fork, then branch off of master, 
 
 The reason for this is that master, as a branch, should always represent code or whatever that "Works" and is uitable for deployment or sharing or whatever "going public" is for you.
 
+### Creating Aliases To Make Things Simpler
+
+In order to simplify git commands for the lazy people and if you don't want to type out the entire command such as checkout or status then the following is the way to do it:
+$ git config --global alias.<whatever you want it to be> <command>
+
+$ git config --global alias.ch checkout
+$ git config --global alias.br branch
+$ git config --global alias.com commit
+$ git config --global alias.st status
